@@ -1,3 +1,3 @@
-# Personal site
+# Personal site ReadMe
 
-Update ReadMe File.
+Update ReadMe File as an Exercise
